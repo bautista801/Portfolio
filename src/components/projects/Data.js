@@ -5,6 +5,7 @@ import IMG4 from '../../img/assets/register.png'
 import IMG5 from '../../img/assets/restaurant.png'
 import IMG6 from '../../img/assets/pokeapi.png'
 import IMG7 from '../../img/assets/clima.png'
+import IMG8 from '../../img/assets/bebidas.png'
 
 const data = [
     {
@@ -55,6 +56,13 @@ const data = [
         title: 'Weather App',
         github: 'https://github.com/bautista801/App-Clima',
         demo: 'https://app-clima-virid.vercel.app/'
+    },
+    {
+        id: 8,
+        image: IMG8,
+        title: 'Drinks App',
+        github: 'https://github.com/bautista801/app-bebidas',
+        demo: 'https://app-bebidas.vercel.app/'
     }
     
 ]
